@@ -2,6 +2,8 @@
 
 Atividade de Criação de Relógio digital com HTML, CSS e JavaScript.
 
+Acesso: https://michaelssilva.github.io/relogio-michael/
+
 Baseado no video de Larissa Kish.
 Repositório: https://github.com/Larissakich
 
